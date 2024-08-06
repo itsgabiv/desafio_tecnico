@@ -1,6 +1,6 @@
 import LoginPage from '../pages/loginPage';
-import ProdutosPage from '../pages/productPage';
-import CarrinhoPage from '../pages/cartPage';
+import ProdutosPage from '../pages/produtosPage';
+import CarrinhoPage from '../pages/carrinhoPage';
 
 describe('Teste Carrinho', () => {
   const loginPage = new LoginPage();

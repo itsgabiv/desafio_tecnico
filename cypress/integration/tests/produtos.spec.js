@@ -1,5 +1,5 @@
 import LoginPage from '../pages/loginPage';
-import ProdutosPage from '../pages/productPage';
+import ProdutosPage from '../pages/produtosPage';
 
 describe('Teste Produtos', () => {
   const loginPage = new LoginPage();
